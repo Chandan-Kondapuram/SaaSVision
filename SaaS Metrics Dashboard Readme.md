@@ -6,7 +6,7 @@ A fully integrated real-time SaaS analytics dashboard that captures, processes, 
 
 ## 📊 Live Dashboard Preview
 
-<img src="dashboard-preview.png" alt="SaaS Metrics Dashboard" width="800"/>
+<img src="dashboard-preview.jpg" alt="SaaS Metrics Dashboard" width="800"/>
 
 ---
 
