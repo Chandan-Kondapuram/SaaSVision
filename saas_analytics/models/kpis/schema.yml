@@ -1,0 +1,115 @@
+version: 2
+
+
+
+sources:
+  - name: saas_data
+    database: realtime-pipeline-457321
+    schema: saas_data
+    tables:
+      - name: raw_events
+
+
+models:
+  - name: mrr
+    description: "Monthly Recurring Revenue (MRR) based on subscription renewals."
+    columns:
+      - name: month
+        description: "Month of the revenue"
+        tests: [not_null]
+      - name: mrr
+        description: "Total MRR in USD"
+        tests: [not_null]
+
+  - name: arpu
+    description: "Average Revenue Per User (ARPU)."
+    columns:
+      - name: arpu
+        description: "Revenue divided by unique users"
+        tests: [not_null]
+
+  - name: churn_rate
+    description: "Percentage of users who churned in a given period."
+    columns:
+      - name: churn_rate
+        tests: [not_null]
+
+  - name: signup_conversion
+    description: "Conversion rate from trial users to paid users."
+    columns:
+      - name: conversion_rate
+        tests: [not_null]
+
+  - name: active_users_by_region
+    description: "Count of active users grouped by region."
+    columns:
+      - name: region
+        tests: [not_null]
+      - name: active_users
+        tests: [not_null]
+
+  - name: dau
+    description: "Daily Active Users (DAU) based on login events."
+    columns:
+      - name: date
+        tests: [not_null]
+      - name: daily_active_users
+        tests: [not_null]
+
+  - name: upgrade_rate
+    description: "Percentage of users who upgraded their plan."
+    columns:
+      - name: upgrade_rate
+        tests: [not_null]
+
+  - name: payment_volume
+    description: "Total volume of payments."
+    columns:
+      - name: total_payment
+        tests: [not_null]
+
+  - name: plan_distribution
+    description: "Distribution of users across subscription plans."
+    columns:
+      - name: plan
+        tests: [not_null]
+      - name: user_count
+        tests: [not_null]
+
+  - name: avg_session_frequency
+    description: "Average session frequency based on login activity."
+    columns:
+      - name: user_id
+      - name: avg_logins_per_week
+
+  - name: revenue_by_region
+    description: "Revenue generated from each region."
+    columns:
+      - name: region
+        tests: [not_null]
+      - name: total_revenue
+        tests: [not_null]
+
+  - name: monthly_signups
+    description: "Total signups grouped by month."
+    columns:
+      - name: month
+        tests: [not_null]
+      - name: signup_count
+        tests: [not_null]
+
+  - name: trial_users_active
+    description: "Trial users who are still active (based on recent login)."
+    columns:
+      - name: user_id
+        tests: [not_null]
+      - name: last_login
+        tests: [not_null]
+
+  - name: ltv
+    description: "Estimated Lifetime Value (LTV) per user based on payment history."
+    columns:
+      - name: user_id
+        tests: [not_null]
+      - name: lifetime_value
+        tests: [not_null]

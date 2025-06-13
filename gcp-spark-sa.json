@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "realtime-pipeline-457321",
+  "private_key_id": "44277820cd3d316334a5db1cbd92728d822bdea5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCOA0j7I7HIufew\nPtu6FLaWkefPYrPGghqY7HVhhwBWKX8pO37995kdBaf0VaFn+eJMnhAZtga0/1SF\nCaPklJtI33ni+lC2Y1RJWuGQ2HzurY3QWr+puKQLxuMrqoIRFuXiuiGWB5Ccynui\nWiodLQT2O6nDEc4wkUzRfJsRO56dje0ZKP1UrK3PWzzuhCNl8VVddRIE6Ep267cU\nvt1vJ7qhr0zKqBkXHsEaSRxfA/z0JFPk8YTp0jbDgLZUvLmM1hILF5Hzsu3aIiIY\nzOF5VfY4wCIjSDzKvIj/rcf+ETgf6ckShfWZTZt4NoWvbmru0YBN65n48EeYlT4h\njBvXgxFnAgMBAAECggEAHBlzTdn8ugpuA44UfQfPLxDUrNjLWJpyt9KF0VPcka/p\nTNfMY2UkAzWUy4hMBR5RFDbsWaIGRrcE2sQTDU4IQc2SOQKtiMEzssYMPtRPOAzY\nNCNYrDTwJLJoTcIRtV7yAsAwmBaMGzIHb5LmpVo8kpowl3wE7+A4MnU0256P3n2k\nuPKVWtCo+1QyhhFNY4Kg4dxnPfiP49XRp0ApngtyGdjlGQ4HRlOiO6lEvKQhGhOZ\nWSmkBsurJplXWXpFAXE1srwkIlDbjBQMd9JTBTGh0PDAe52K2MfOJ2jnIMiII00K\ngQ/PF8D5vnD5zduodicFNNwk3dEl39tnIQqw9K2ifQKBgQC/4C+YKnhwmq5A7+Ub\npa8PUaWyCGBKoFPpH4OU4AeeRLBm1fKDbjeaon88zi2fNX1/cuODeheaz5ic9+N8\nqRh02rQ1C+/8NjUGiIVtXtV+Qda2/HmHnGlyOa7YpJOvQ1ya2aAylpo7TfAvUBPY\nbbabX13SuCa++5fQO/zyD9NWtQKBgQC9eRvbr5kiAwgib69loFYWJKi/k/u3xfnr\nuhvjDaD2NOuSf79SE7oUMPIRwDhRzAXO+M+/HZcEGr+eq/2VI/nNtxGlF3ASNJng\nO4rJHFrDB95YUhcuHKwqJUchJOzPX0b5IoitQQYVWIt80piz7kHO0E18MjAglZ7v\no9fA2w0dKwKBgEi7KA9b+e9lEqxWwteqBCOgZViIyEdBYs05Pt1N1lVt4Bf6/URI\noRcihWx9EtoIopuO5yLNQulRy52kcTyttDGHPUvmTH+j5JGnajw8+Fw1hLg0F7UJ\n2waLSvWf3MNQm2evGoRShf/42RR2HC+r1s4qZhwb5cP7Bl7OfmEbEpcJAoGAAaRj\nEWxcL2dHUsUVCBRzqo12yPJHZDhbCif6xeUAWCHtSL/CsLtrCXHDJ1Q7KLpT8o9F\nfaqL/IUe1Ak5kWlWaOoFRSEG36GFE+RwN33/a2FOFAXiHYwyEctw6mCfjMyOmOor\ntRSzMMwrqVFJ8YVHHLvBcCofMKkbT4hj/k/ntTECgYEAmZzsNV5RS6XA9XjNZIL+\nNmD6B+YR05cg4D4RKVbEg7risOf3mlOlUO2WHI/Veiuz7C8D77+tAXt5okId7OWn\ny9crTjFq8I4h0kieiy46XSeOr8HWpteogEGtZDiyYfXxK8KIRRuTvQavZZMlY/Nz\nJALLVd6Oq+GW0zWSnmY1eDs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "spark-bigquery-writer@realtime-pipeline-457321.iam.gserviceaccount.com",
+  "client_id": "108762694330220186233",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spark-bigquery-writer%40realtime-pipeline-457321.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
