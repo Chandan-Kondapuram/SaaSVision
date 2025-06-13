@@ -86,7 +86,7 @@ Designed for product managers, growth teams, or SaaS founders who want to **moni
 
 ## 🤝 Connect with Me
 
-If this project resonates with you, feel free to connect on [LinkedIn](https://linkedin.com/in/your-profile), or reach out to collaborate or chat about data engineering or analytics.
+If this project resonates with you, feel free to connect on LinkedIn, or reach out to collaborate or chat about data engineering or analytics.
 
 ---
 
@@ -99,4 +99,3 @@ This dashboard demonstrates:
 * Business-focused KPI development
 * Visual storytelling using Power BI
 
-Let’s talk!
