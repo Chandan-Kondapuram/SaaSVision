@@ -90,12 +90,5 @@ If this project resonates with you, feel free to connect on LinkedIn, or reach o
 
 ---
 
-## 📢 Hiring Managers & Recruiters
 
-This dashboard demonstrates:
-
-* Real-time event stream processing
-* End-to-end data pipeline design
-* Business-focused KPI development
-* Visual storytelling using Power BI
 
