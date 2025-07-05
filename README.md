@@ -6,9 +6,19 @@ A fully integrated real-time SaaS analytics dashboard that captures, processes, 
 
 ## 📊 Live Dashboard Preview
 
-<img src="dashboard-preview.jpg" alt="SaaS Metrics Dashboard" width="800"/>
+<img src="Dashboard.png" alt="SaaS Metrics Dashboard" width="800"/>
 
 ---
+
+## Architecture Diagram
+
+<img src="Architecture Diagram.png" alt="Architecture Diagram" width="800"/>
+
+## Class Diagram
+
+<img src="classdiagram.png" alt="Class Diagram" width="800"/>
+
+
 
 ## 🛠️ Tech Stack
 
