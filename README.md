@@ -1,4 +1,4 @@
-# 🚀 SaaS Metrics Dashboard — Real-Time Analytics Pipeline
+# 🚀 SaaSVision: Real-Time Analytics Dashboard
 
 A fully integrated real-time SaaS analytics dashboard that captures, processes, models, and visualizes critical KPIs across a customer lifecycle. Built using **Kafka, Spark, BigQuery, dbt, and Power BI** on Microsoft Fabric.
 
